@@ -1,1 +1,1 @@
-// your ImageSlider code here!
+class 
