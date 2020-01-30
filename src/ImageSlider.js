@@ -1,1 +1,1 @@
-class 
+import React, { Component } from 'react';
