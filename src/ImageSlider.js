@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
 
-class ImageSlider extends Component {
+export default class ImageSlider extends Component {
   render(){return ''}
 }
