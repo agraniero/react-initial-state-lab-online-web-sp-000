@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
-class Bomb extends Component {
+export default class Bomb extends Component {
   render(){return ''}
 }
+
